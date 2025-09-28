@@ -1,2 +1,11 @@
 # console-shopping-cart
-A simple C++ console application simulating a shopping cart system with a menu-driven interface. Users can browse a predefined product menu, add items to their cart, view and remove products, and checkout with a clear total. Ideal for learning basic C++ programming and menu handling.
+A basic console application written in C++ that simulates a shopping cart. Users can browse a menu, add items to a cart, view the cart, remove items, and check out.
+This project is intended for beginners learning C++ and demonstrates basic concepts like structs, vectors, loops, and handling user input. 👨‍💻
+✨ Features
+
+    📜 View a list of products.
+    ➕ Add products to the shopping cart.
+    🛒 View the contents of the cart and the total price.
+    ❌ Remove items from the cart.
+    💳 Checkout and clear the cart.
+
